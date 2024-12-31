@@ -1,4 +1,4 @@
-# EzyLoaders - Android UI Loader Balls Library
+# Loadify - Android UI Loader Balls Library
 ---
 
 ## Overview
